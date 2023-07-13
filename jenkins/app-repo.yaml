@@ -6,7 +6,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/kunaldenvr/jenkins-k8s.git
-    path: jenkins/app-repo.yaml
+    path: jenkins
     targetRevision: main
     directory:
       recurse: true
